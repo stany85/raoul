@@ -65,5 +65,5 @@
     "gridUnits": "m",
     "url": "https://github.com/stany85/raoul",
     "manifest": "https://github.com/stany85/raoul/blob/main/system.json",
-    "download": ""
+    "download": "https://github.com/stany85/raoul/archive/refs/tags/v1.0.0.zip"
 }
