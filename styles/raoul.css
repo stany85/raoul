@@ -1,0 +1,70 @@
+@font-face { 	font-family: "titre"; 	src: url('./fonts/font_titre.ttf'); }
+@font-face { 	font-family: "texte"; 	src: url('./fonts/font_texte.otf'); }
+body.vtt.game.system.feuille_raoul{
+    font-family:'texte';  
+    background-color: bisque; 
+
+}
+
+.app.window-app.raoul.sheet.actor{
+background-color: olivedrab;
+}
+
+header.window-header.flexrow.draggable.resizable{
+    background-color:saddlebrown;
+    color:moccasin;
+
+}
+.window-content{
+    padding:0px;
+    background-color: orange;
+    }
+.item
+{
+font-family:'texte';
+
+}
+.titre{
+    font-family:'titre'; 
+    font-size:20px; 
+    color:saddlebrown;
+}
+#raoul_cont{
+    margin:10px;
+    width:420px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#raoul_caract
+{
+    width:140px;
+    float:left;
+    text-align: center;
+}
+#caract
+{
+    width:30px;
+    size:10;
+    background-color:peru;
+    }
+.div_caract{
+    width:60px;
+    margin-left: 45px;
+}
+.feuille_raoul{
+background-color: sandybrown;
+
+}
+.jetdedes{
+    border:0px;
+    vertical-align: middle;
+    width:25px;
+}
+#input_trait{
+    border:0px;
+}
+#table_raoul{
+    border:0px;
+}
+.imgObjet
+{border:0px;}

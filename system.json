@@ -1,0 +1,69 @@
+{
+    "id": "raoul",
+    "title": "Système Raoul",
+    "description": "Jeu de rôle 'Raoul', Numéro spécial 2 de Casus belli",
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "11",
+        "verified": "11"
+    },
+    "authors": [
+        {
+            "name": "Sylvain (Stanyjdr)",
+            "email": "stanys6@gmail.com",
+            "discord": "stany"
+        }
+    ],
+    "esmodules": ["modules/raoul.mjs"],
+    "scripts": [],
+    "styles": ["styles/raoul.css"],
+    "packs": [{
+        "type":"Item",
+        "name": "Baraka",
+        "label": "Baraka",
+        "path": "packs/baraka.db",
+        "entity": "Item",
+        "system": "raoul"
+          },
+          {
+          "type":"Item",
+          "name": "metier",
+          "label": "Métier",
+          "path": "packs/metier.db",
+          "entity": "Item",
+          "system": "raoul"
+            } 
+            ,
+          {
+            "type":"Item",
+          "name": "passetemps",
+          "label": "Passe-temps",
+          "path": "packs/passetemps.db",
+          "entity": "Item",
+          "system": "raoul"
+           }
+           ,
+           {
+            "type":"Item",
+           "name": "modedevie",
+           "label": "Mode de vie",
+           "path": "packs/modedevie.db",
+           "entity": "Item",
+           "system": "raoul"
+            } 
+            ,
+          {
+            "type":"Item",
+          "name": "origine",
+          "label": "Origine",
+          "path": "packs/origine.db",
+          "entity": "Item",
+          "system": "raoul"
+           }             
+        ],
+    "gridDistance": 2,
+    "gridUnits": "m",
+    "url": "",
+    "manifest": "",
+    "download": ""
+}
