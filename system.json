@@ -64,6 +64,6 @@
     "gridDistance": 2,
     "gridUnits": "m",
     "url": "https://github.com/stany85/raoul",
-    "manifest": "https://github.com/stany85/raoul/blob/main/template.json",
+    "manifest": "https://github.com/stany85/raoul/blob/main/system.json",
     "download": ""
 }
